@@ -23,10 +23,10 @@ airdrop_cap = 5000  # Max airdrop submissions that are being accepted
 wallet_changes = 3  # How often a user is allowed to change their wallet address
 
 # MySQL Database
-mysql_host = "containers-us-west-14.railway.app"
-mysql_db = "TelegramAirdropBot"
-mysql_user = "AirdropUser"
-mysql_pw = "<YOUR PASSWORD>"
+mysql_host = "containers-us-west-23.railway.app"
+mysql_db = "railway"
+mysql_user = "root"
+mysql_pw = "8485kVkM01X4pkQXtte5"
 
 texts = {
     "start_1": "Hi {} and welcome to our Airdrop!\n\nGet started by clicking the button below.\n\n",
