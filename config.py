@@ -12,7 +12,7 @@ captcha = True
 
 # Telegram
 api_token = (
-    "<YOUR BOT TOKEN>"  # More: https://core.telegram.org/bots#3-how-do-i-create-a-bot
+    "5091986659:AAGjZkhMGFLbIhjMoBZDAnWghEf0gmC0VgQ"  # More: https://core.telegram.org/bots#3-how-do-i-create-a-bot
 )
 
 host = ""  # ip/host where the bot is running
